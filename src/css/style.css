@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: 100;
+    color:cornflowerblue
+}
+
+h2 {
+    font-size: large;
+    color: cornflowerblue;
+}
+
+button {
+    color: red
+}
