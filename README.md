@@ -6,7 +6,7 @@
 
 ## 📖 Descrição
 
-Um site para ver anotar e criar uma lista de tarefas
+Um site para ver, anotar e criar uma lista de tarefas
 
 ## 🚀 Tecnologias
   
