@@ -25,6 +25,6 @@ Um site para ver, anotar e criar uma lista de tarefas
 
 ## 👤 Alunos
 
-- Davi Augusto Goonçalves
+- Davi Augusto Goonçalves2
 - Dionclei de Souza Pereira
 - Rafael Jose da Cruz
