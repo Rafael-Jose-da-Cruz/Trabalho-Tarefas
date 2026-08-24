@@ -1,6 +1,6 @@
-![JavaScript](https://img.shields.io/badge/JavaScrpit-orange)
-![CSS](https://img.shields.io/badge/Css-green)
-![HTML](https://img.shields.io/badge/HTML-green)
+![JavaScript](https://img.shields.io/badge/JavaScrpit-yellow)
+![CSS](https://img.shields.io/badge/Css-blue)
+![HTML](https://img.shields.io/badge/HTML-orange)
 
 # Trabalho: Tarefas
 
@@ -23,3 +23,8 @@ Um site para ver, anotar e criar uma lista de tarefas
 - Marcar como concluída
 - Mensagem se não ha tarefas 
 
+## 👤 Alunos
+
+- Davi Augusto Goonçalves
+- Dionclei de Souza Pereira
+- Rafael Jose da Cruz
